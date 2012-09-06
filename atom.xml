@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Exploit Bound]]></title>
+  <link href="http://www.jareddickson.com/atom.xml" rel="self"/>
+  <link href="http://www.jareddickson.com/"/>
+  <updated>2012-09-06T10:29:11-04:00</updated>
+  <id>http://www.jareddickson.com/</id>
+  <author>
+    <name><![CDATA[Jared Dickson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
